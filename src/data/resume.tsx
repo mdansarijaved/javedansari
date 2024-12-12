@@ -118,7 +118,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://ik.imagekit.io/3c5crosq1/vishwakarma.mov/ik-video.mp4?updatedAt=1733978815955",
+        "https://ik.imagekit.io/3c5crosq1/viswa.mov/ik-video.mp4?updatedAt=1734002991089",
     },
     {
       title: "Trekyaari",
@@ -143,7 +143,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "https://ik.imagekit.io/3c5crosq1/Screen%20Recording%202024-12-12%20at%204.59.50%E2%80%AFPM.mov/ik-video.mp4?updatedAt=1734003291752",
     },
   ],
   hackathons: [
