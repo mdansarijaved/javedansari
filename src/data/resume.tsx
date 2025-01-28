@@ -8,7 +8,7 @@ export const DATA = {
   location: "Mumbai, India",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
-    "Software Engineer and Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Software Engineer and Entrepreneur. I love building things and helping people. ",
   summary:
     "In 2021, I embarked on a transformative journey that would shape my future in ways I could never have imagined. It all began when I made the pivotal decision to pursue a Bachelor of Technology in Computer Science Engineering (BTech CSE). This choice was not just an academic step; it was a leap into a world filled with endless possibilities and challenges that would ignite my passion for technology and innovation. So far I've participated in more than 5 Hackathons and more than 10 dev conferences.",
   avatarUrl: "/me.jpeg",
