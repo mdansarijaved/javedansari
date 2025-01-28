@@ -88,7 +88,7 @@ export const DATA = {
       school: "Chandigarh University",
       href: "https://cuchd.in",
       degree: "Bachelor's Degree of Computer Science (BE)",
-      logoUrl: "/waterloo.png",
+      logoUrl: "/cu.png",
       start: "2021",
       end: "2025",
     },
@@ -143,7 +143,8 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://ik.imagekit.io/3c5crosq1/Screen%20Recording%202024-12-12%20at%204.59.50%E2%80%AFPM.mov/ik-video.mp4?updatedAt=1734003291752",
+      video:
+        "https://ik.imagekit.io/3c5crosq1/Screen%20Recording%202024-12-12%20at%204.59.50%E2%80%AFPM.mov/ik-video.mp4?updatedAt=1734003291752",
     },
   ],
   hackathons: [
